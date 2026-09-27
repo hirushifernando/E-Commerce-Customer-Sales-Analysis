@@ -581,10 +581,8 @@ The Power BI dashboard provides an interactive way to explore these patterns usi
 
 **Hirushi Fernando**
 
-BSc (Hons) Computer Science — Upper Second Class Honours (2:1)
-
 **Areas of Interest:**
-Data Science | Artificial Intelligence | Machine Learning | Data Analytics
+Data Science | Artificial Intelligence | Machine Learning 
 
 ---
 
